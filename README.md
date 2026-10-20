@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # gstack
 
 > "I don't think I've typed like a line of code probably since December, basically, which is an extremely large change." — [Andrej Karpathy](https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/), No Priors podcast, March 2026
@@ -403,3 +407,32 @@ Available skills: /office-hours, /plan-ceo-review, /plan-eng-review, /plan-desig
 ## License
 
 MIT. Free forever. Go build something.
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+来自 [garrytan/gstack](https://github.com/garrytan/gstack) 的 Fork，以 Markdown 技能与命令组织 AI 软件开发流程，覆盖需求澄清、规划、审查、浏览器 QA 和发布等角色。
+
+**使用入口：** 按原 README 安装 Git、Bun 及所用 AI 工具，并执行 `./setup`；Codex 等宿主可使用 `./setup --host <name>`。入门命令包括 `/office-hours`、`/review` 和 `/qa`。
+
+**范围说明：** 原项目由 Garry Tan 发起；本仓库为 Fork，上游作者介绍、贡献与许可证应予保留。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A fork of [garrytan/gstack](https://github.com/garrytan/gstack), organizing AI software development through Markdown skills and commands for discovery, planning, review, browser QA, and release workflows.
+
+**Getting started:** Follow the original README to install Git, Bun, and your AI host, then run `./setup`; hosts such as Codex can use `./setup --host <name>`. Starting commands include `/office-hours`, `/review`, and `/qa`.
+
+**Scope:** The upstream project was created by Garry Tan. This is a fork; upstream authorship, contributions, and license remain credited.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [garrytan/gstack](https://github.com/garrytan/gstack)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
